@@ -1,0 +1,21 @@
+img {
+    margin: auto;
+    display: block;
+  }
+  
+  .firstSection {
+    margin-top: 300px;
+  }
+  
+  .imageDapanda {
+    width: 300px;
+    height: 300px;
+    margin: 10px 5px;
+  }
+  
+  li {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    float: left;
+  }

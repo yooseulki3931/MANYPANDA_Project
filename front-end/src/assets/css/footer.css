@@ -1,0 +1,45 @@
+.bg-light {
+    background-color: #dbdbdb!important;
+   
+}
+
+
+.mt-auto {
+    margin-top: auto!important;
+}
+
+user agent stylesheet
+footer {
+    display: block;
+    text-align: center;
+    
+}
+/* body {
+    margin: auto;
+    
+    line-height: 1.5;
+    font-size: 12px;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    text-align: center;
+    width: 80%;
+} */
+.footer{
+    margin: auto;
+    line-height: 1.5;
+    font-size: 12px;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    text-align: center;
+    width: 90%;
+}
+
+.footerLogo{
+  width: 100px;
+  height: 100px;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
